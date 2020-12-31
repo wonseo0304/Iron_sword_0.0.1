@@ -1,0 +1,4 @@
+name: Main
+version: ${project.version}
+main: iron_sword.main.Main
+api-version: 1.16
